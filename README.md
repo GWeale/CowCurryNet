@@ -1,6 +1,6 @@
 # custom alexnet variant
 
-implements a sophisticated alexnet variant with residual connections, attention mechanisms, and advanced training features.
+Implements a alexnet variant with residual connections, attention mechanisms, and advanced training features.
 
 ## structure
 
